@@ -37,7 +37,7 @@ export default function ConfirmationPage() {
             </Link>
 
             <Link
-            href="/resendemail"
+            href="/auth/resendemail"
             className="w-full py-3 text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white font-medium transition-colors">
               Resend confirmation email
             </Link>
